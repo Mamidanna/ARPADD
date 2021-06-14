@@ -3,10 +3,7 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.9.1-preview]",
-    "UiPath.Mail.Activities": "[1.9.1-preview]",
-    "UiPath.System.Activities": "[20.8.0-preview]",
-    "UiPath.UIAutomation.Activities": "[20.8.0-preview]"
+    "UiPath.System.Activities": "[20.8.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
